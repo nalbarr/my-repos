@@ -48,10 +48,11 @@ my-projects
 - [project #1](https://github.com/nalbarr/hello-luke-fsharp)
 
 ### Clojure (FP)
-- [project #1](https://github.com/nalbarr/hello-luke-cljs)
+- [project #1](https://github.com/nalbarr/hello-shapes-cljs)
+- [project #2](https://github.com/nalbarr/hello-luke-cljs)
 
 ### Javascript
-https://github.com/nalbarr/hello-shapes-javascript
+- [project #1](https://github.com/nalbarr/hello-shapes-javascript)
 
 ### Python
 - [project #1](https://github.com/nalbarr/hello-shapes-python)
@@ -69,18 +70,18 @@ https://github.com/nalbarr/hello-shapes-javascript
 
 ### Python
 - [track #1](https://github.com/nalbarr/coursera-deeplearning.ai)
-  -[course #1](https://github.com/nalbarr/coursera-deeplearning.ai-course1)
-  -[course #2](https://github.com/nalbarr/coursera-deeplearning.ai-course2)
-  -[course #3](https://github.com/nalbarr/coursera-deeplearning.ai-course3)
-  -[course #4](https://github.com/nalbarr/coursera-deeplearning.ai-course4)
-  -[course #5](https://github.com/nalbarr/coursera-deeplearning.ai-course5)
+  - [course #1](https://github.com/nalbarr/coursera-deeplearning.ai-course1)
+  - [course #2](https://github.com/nalbarr/coursera-deeplearning.ai-course2)
+  - [course #3](https://github.com/nalbarr/coursera-deeplearning.ai-course3)
+  - [course #4](https://github.com/nalbarr/coursera-deeplearning.ai-course4)
+  - [course #5](https://github.com/nalbarr/coursera-deeplearning.ai-course5)
 
 ### R
 - [track #1](https://github.com/nalbarr/coursera-johnhopkins-datascience)
-  -[course #1](https://github.com/nalbarr/coursera-johnhopkins-datascience-course1)
-  -[course #2](https://github.com/nalbarr/coursera-johnhopkins-datascience-course2)
-  -[course #3](https://github.com/nalbarr/coursera-johnhopkins-datascience-course3)
-  -[course #4](https://github.com/nalbarr/coursera-johnhopkins-datascience-course4)
+  - [course #1](https://github.com/nalbarr/coursera-johnhopkins-datascience-course1)
+  - [course #2](https://github.com/nalbarr/coursera-johnhopkins-datascience-course2)
+  - [course #3](https://github.com/nalbarr/coursera-johnhopkins-datascience-course3)
+  - [course #4](https://github.com/nalbarr/coursera-johnhopkins-datascience-course4)
 
 ### Scala
 - [course #1](https://github.com/nalbarr/coursera-epfl-funprog-scala)
