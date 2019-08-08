@@ -2,11 +2,11 @@
 my-projects
 
 ## HL7 recon
--[SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
+- [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 
 ## Cognitive Computing
--[CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
--[DL4J](https://github.com/nalbarr/dl4j-examples)
+- [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
+- [DL4J](https://github.com/nalbarr/dl4j-examples)
 
 ## Microsoft recon
 - [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes)
