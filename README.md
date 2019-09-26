@@ -1,8 +1,10 @@
 # my-projects
 my-projects
 
-## HL7 recon
+## Healthcare, Digital Health
+### HL7 recon
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
+- [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
 
 ## Cognitive Computing (AI, ML, DL, MLOps, Continuous Intelligence)
 - [Azure, MLOps wite Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
