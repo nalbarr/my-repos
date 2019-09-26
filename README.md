@@ -5,6 +5,7 @@ my-projects
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 
 ## Cognitive Computing (AI, ML, DL, MLOps, Continuous Intelligence)
+- [Azure, MLOps wite Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
