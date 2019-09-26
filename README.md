@@ -4,9 +4,10 @@ my-projects
 ## HL7 recon
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 
-## Cognitive Computing
+## Cognitive Computing (AI, ML, DL, MLOps, Continuous Intelligence)
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
+- [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
 
 ## Microsoft, Microsoft Azure recon
 - [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes)
