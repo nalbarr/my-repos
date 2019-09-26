@@ -8,7 +8,7 @@ my-projects
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 
-## Microsoft recon
+## Microsoft, Microsoft Azure recon
 - [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes)
 - [Blazor example 2](https://github.com/nalbarr/PokeBlazor)
 - [Blazor prototype 1](https://github.com/nalbarr/hello-shapes-blazor)
@@ -16,9 +16,9 @@ my-projects
 - [.NET Core build](https://github.com/nalbarr/dotnetcore-sample)
 - [.NET Core + SQL Server](https://github.com/nalbarr/hello-dotnet-sql-docker)
 
-## Google recon
+## Google, Google Cloud recon
 
-## IBM recon
+## IBM Cloud recon
 
 ## Programming language Katas
 ### Java (OOP)
@@ -27,14 +27,22 @@ my-projects
 - [project #3](https://github.com/nalbarr/hello-luke-javafx)
 - [project #4](https://github.com/nalbarr/hello-luke-java-git)
 
-### C#
+### C# (OOP)
 - [project #1](https://github.com/nalbarr/hello-luke-csharp-git)
 - [project #2](https://github.com/nalbarr/hello-unity-ml-agents)
+
+### Go (Systems language)
+- [project #1](https://github.com/nalbarr/hello-shapes-go)
+- [project #2](https://github.com/nalbarr/hello-luke-go)
+
+### Dart (OOP)
+- [project #1](https://github.com/nalbarr/hello-shapes-dart)
+- [project #2](https://github.com/nalbarr/hello-luke-dart)
 
 ### Swift (OOP)
 - [project #1](https://github.com/nalbarr/hello-shapes-swift)
 
-## Kotlin (OOP, FP, Hybrid) - Also, Java, Scala
+### Kotlin (OOP, FP, Hybrid) - Also, Java, Scala
 - [project #1](https://github.com/nalbarr/hello-luke-oop-fp)
 
 ### Haskell (FP)
