@@ -11,6 +11,7 @@ my-projects
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
+- [Kubeflow on GCP (modified tutorial)](https://github.com/nalbarr/kubeflow-tutorial
 
 ## Microsoft, Microsoft Azure recon
 - [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes)
@@ -20,7 +21,9 @@ my-projects
 - [.NET Core build](https://github.com/nalbarr/dotnetcore-sample)
 - [.NET Core + SQL Server](https://github.com/nalbarr/hello-dotnet-sql-docker)
 
-## Google, Google Cloud recon
+## Google, Google Cloud Platform (GCP) recon
+- [Cloud run Go example](https://github.com/nalbarr/hello-gcp-cloudrun-go)
+- [Cloud run Python/Flask example](https://github.com/nalbarr/hello-gcp-cloudrun-flask)
 
 ## IBM Cloud recon
 
@@ -42,6 +45,7 @@ my-projects
 ### Dart (OOP)
 - [project #1](https://github.com/nalbarr/hello-shapes-dart)
 - [project #2](https://github.com/nalbarr/hello-luke-dart)
+- [Flutter/Dart client]
 
 ### Swift (OOP)
 - [project #1](https://github.com/nalbarr/hello-shapes-swift)
