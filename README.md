@@ -11,7 +11,7 @@ my-projects
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
-- [Kubeflow on GCP (modified tutorial)](https://github.com/nalbarr/kubeflow-tutorial
+- [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
 
 ## Microsoft, Microsoft Azure recon
 - [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes)
