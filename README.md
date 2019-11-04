@@ -46,7 +46,7 @@ my-projects
 ### Dart (OOP)
 - [project #1](https://github.com/nalbarr/hello-shapes-dart)
 - [project #2](https://github.com/nalbarr/hello-luke-dart)
-- [Flutter/Dart client]
+- [Flutter/Dart client](https://github.com/nalbarr/hello_flutter_client.git)
 
 ### Swift (OOP)
 - [project #1](https://github.com/nalbarr/hello-shapes-swift)
