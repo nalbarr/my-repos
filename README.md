@@ -1,20 +1,23 @@
 # my-projects
 my-projects
 
-## Healthcare, Digital Health
-### HL7 recon
+## Healthcare
+### (Including Digital Health Platforms (DHPs), HIT Standards, Informatics, etc.)
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 - [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
 
-## Cognitive Computing (AI, ML, DL, MLOps, Continuous Intelligence)
+## Cognitive Computing, AI
+### (Including AI, ML, DL, MLOps, etc.)
+### (aka Thoughtwork's - "Continuous Intelligence")
 - [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
 - [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
 
-## Microsoft, Microsoft Azure recon
+## Microsoft recon
+### (Including Microsoft Azure, Microsoft Cognitive Services, etc.)
 - [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes)
 - [Blazor example 2](https://github.com/nalbarr/PokeBlazor)
 - [Blazor prototype 1](https://github.com/nalbarr/hello-shapes-blazor)
@@ -22,9 +25,12 @@ my-projects
 - [.NET Core build](https://github.com/nalbarr/dotnetcore-sample)
 - [.NET Core + SQL Server](https://github.com/nalbarr/hello-dotnet-sql-docker)
 
-## Google, Google Cloud Platform (GCP) recon
+## Google recon
+### (Including Google Cloud Platform (GCP), etc.)
 - [Cloud run Go example](https://github.com/nalbarr/hello-gcp-cloudrun-go)
 - [Cloud run Python/Flask example](https://github.com/nalbarr/hello-gcp-cloudrun-flask)
+
+## Amazon recon
 
 ## IBM Cloud recon
 
