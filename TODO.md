@@ -10,12 +10,14 @@
 - hello-luke-dart
 - hello-luke-go
 - hello-luke-cljs
+  - NEEDS IMPLEMENTATION to match hello-luke-java
 - hello-luke-fsharp
 - hello-luke-haskell
 - hello-shapes-java
 - hello-shapes-scala
 - hello-shapes-python
 - hello-shapes-clj
+  - NEEDS IMPLEMENTATION to match hello-shapes-java
 - hello-shapes-javascript
 - hello-shapes-dart
 - hello-shapes-swift
