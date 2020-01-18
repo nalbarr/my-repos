@@ -1,4 +1,4 @@
-# my-projects
+# README
 my-projects
 
 ## Healthcare
@@ -31,10 +31,13 @@ my-projects
 - [Cloud run Python/Flask example](https://github.com/nalbarr/hello-gcp-cloudrun-flask)
 
 ## Amazon recon
+- TBD
 
 ## IBM Cloud recon
+- TBD.  Currently [radar](radar.md) is on HOLD.
 
 ## Programming language Katas
+
 ### Java (OOP)
 - [project #1](https://github.com/nalbarr/hello-shapes-java)
 - [project #2](https://github.com/nalbarr/hello-luke-java)
