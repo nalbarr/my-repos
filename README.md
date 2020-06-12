@@ -2,6 +2,8 @@
 my-projects
 
 ## Healthcare
+### COVID-19
+- [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths)
 ### (Including Digital Health Platforms (DHPs), HIT Standards, Informatics, etc.)
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 - [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
