@@ -10,13 +10,18 @@ my-projects
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
 
 ## Cognitive Computing, AI
-### (Including AI, ML, DL, MLOps, etc.)
-### (aka Thoughtwork's - "Continuous Intelligence")
+### (Including AI, ML, DL, Data Science <-> Systems Engineering)
+aka Thoughtwork's - "Continuous Intelligence"
+aka MLOps
 - [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
 - [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
+
+### Top of mind use cases
+- Basic classification
+  - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 
 ## Microsoft recon
 ### (Including Microsoft Azure, Microsoft Cognitive Services, etc.)
