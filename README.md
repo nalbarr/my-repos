@@ -45,6 +45,9 @@ aka MLOps
 
 ## Programming language Katas
 
+### Many of projects below were inspired by teaching my son NLA when he asked me:
+- Can you teach me about programming?
+
 ### Java (OOP)
 - [project #1](https://github.com/nalbarr/hello-shapes-java)
 - [project #2](https://github.com/nalbarr/hello-luke-java)
