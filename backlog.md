@@ -16,10 +16,15 @@
 
 ## Working
 - my_learning
+- hello_swift4tf
+- repo_styleguide
+- hello-rasa-nlp-py
 
 ## Ready For Review
-- my_projects
 
 ## Done
 
-# Non-value add (NVA)
+## Evolve
+- my_projects
+
+## Non-value add (NVA)
