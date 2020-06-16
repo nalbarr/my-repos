@@ -2,12 +2,17 @@
 my-projects
 
 ## Healthcare
+
 ### COVID-19
 - [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths)
+
 ### (Including Digital Health Platforms (DHPs), HIT Standards, Informatics, etc.)
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 - [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
+
+### Basic binary classification
+- [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 
 ## Cognitive Computing, AI
 ### (Including AI, ML, DL, Data Science <-> Systems Engineering)
@@ -18,10 +23,6 @@ aka MLOps
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
 - [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
-
-### Top of mind use cases
-- Basic classification
-  - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 
 ## Microsoft recon
 ### (Including Microsoft Azure, Microsoft Cognitive Services, etc.)
