@@ -6,12 +6,13 @@ my-projects
 ### COVID-19
 - [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths)
 
-### (Including Digital Health Platforms (DHPs), HIT Standards, Informatics, etc.)
+### Platform Thinking
+#### Including Digital Health Platforms , HIT Standards, Informatics, etc.
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 - [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
 
-### Basic binary classification
+### Use cases to drive understanding of AI, ML, DL frameworks
 - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 
 ## Cognitive Computing, AI
@@ -37,6 +38,7 @@ aka MLOps
 ### (Including Google Cloud Platform (GCP), etc.)
 - [Cloud run Go example](https://github.com/nalbarr/hello-gcp-cloudrun-go)
 - [Cloud run Python/Flask example](https://github.com/nalbarr/hello-gcp-cloudrun-flask)
+- [Simple S4TF example](https://github.com/nalbarr/hello-swift4tf.git)
 
 ## Amazon recon
 - TBD
