@@ -13,6 +13,8 @@
 - DELETE? (FORK) PokeBlazor
 - DELETE? (FORK) dotnet-core-sample
 - DELETE? playground-datascience-python
+- fix broken links
+- consolidate content to fastpages?
 
 ## Working
 - my_learning
