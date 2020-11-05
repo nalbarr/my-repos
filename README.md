@@ -12,6 +12,9 @@ my-projects
 - [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
 
+### Use cases for human-centered design (HCD) and user interfaces
+- [React UI](https://github.com/nalbarr/hello-patient-react)
+
 ### Use cases to drive understanding of AI, ML, DL frameworks
 - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 
