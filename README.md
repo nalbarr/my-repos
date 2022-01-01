@@ -20,7 +20,7 @@ my-projects
 
 ## AI, ML, DL <-> Data Science <-> MLOps
 ### (overlaps with Ng's Data-centric AI (DCAI)
-### (overlaps with Thoughtwork's Continous Intelligence)
+### (overlaps with Thoughtwork's Continuous Intelligence)
 ### (overlaps with IBM's Cognitive Computing
 - [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
 - [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
