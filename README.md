@@ -9,8 +9,8 @@ my-projects
 ### Platform Thinking
 #### Including Digital Health Platforms , HIT Standards, Informatics, etc.
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
-- [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
+- [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
 
 ### Use cases for human-centered design (HCD) and user interfaces
 - [React UI](https://github.com/nalbarr/hello-patient-react)
@@ -18,16 +18,22 @@ my-projects
 ### Use cases to drive understanding of AI, ML, DL frameworks
 - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 
-## Cognitive Computing, AI
-### (Including AI, ML, DL, Data Science <-> Systems Engineering)
-aka Thoughtwork's - "Continuous Intelligence"
-aka MLOps
+## AI, ML, DL <-> Data Science <-> MLOps
+### (overlaps with Ng's Data-centric AI (DCAI)
+### (overlaps with Thoughtwork's Continous Intelligence)
+### (overlaps with IBM's Cognitive Computing
+- [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
 - [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
-- [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
 
+## Google recon
+### (Including Google Cloud Platform (GCP), etc.)
+- [Cloud run Go example](https://github.com/nalbarr/hello-gcp-cloudrun-go)
+- [Cloud run Python/Flask example](https://github.com/nalbarr/hello-gcp-cloudrun-flask)
+- [Simple S4TF example](https://github.com/nalbarr/hello-swift4tf.git)
+ 
 ## Microsoft recon
 ### (Including Microsoft Azure, Microsoft Cognitive Services, etc.)
 - [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes)
@@ -37,17 +43,11 @@ aka MLOps
 - [.NET Core build](https://github.com/nalbarr/dotnetcore-sample)
 - [.NET Core + SQL Server](https://github.com/nalbarr/hello-dotnet-sql-docker)
 
-## Google recon
-### (Including Google Cloud Platform (GCP), etc.)
-- [Cloud run Go example](https://github.com/nalbarr/hello-gcp-cloudrun-go)
-- [Cloud run Python/Flask example](https://github.com/nalbarr/hello-gcp-cloudrun-flask)
-- [Simple S4TF example](https://github.com/nalbarr/hello-swift4tf.git)
-
 ## Amazon recon
-- TBD
+- TBD.  Include Noah Gift's - Pragmatic MLOps?
 
 ## IBM Cloud recon
-- TBD.  Currently [radar](radar.md) is on HOLD.
+- TBD.  Currently [radar](radar.md) is on HOLD. Revisit IBM Redhat/Podman?
 
 ## Programming language Katas
 
@@ -98,6 +98,9 @@ aka MLOps
 
 ### Javascript
 - [project #1](https://github.com/nalbarr/hello-shapes-javascript)
+
+### Typescript
+- TBD
 
 ### Python
 - [project #1](https://github.com/nalbarr/hello-shapes-python)
