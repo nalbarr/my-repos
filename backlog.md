@@ -25,6 +25,8 @@
 ## Ready For Review
 
 ## Done
+- DELETE.  Manga not longer relevant.
+  - https://github.com/nalbarr/ddd-clean-react-csharp
 
 ## Evolve
 - my_projects
