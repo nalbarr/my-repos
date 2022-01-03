@@ -98,6 +98,7 @@ my-projects
 
 ### Javascript
 - [project #1](https://github.com/nalbarr/hello-shapes-javascript)
+- [project #2](https://github.com/nalbarr/hello-shapes-react-graphql)
 
 ### Typescript
 - TBD
