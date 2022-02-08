@@ -3,14 +3,14 @@ my-projects
 
 ## Healthcare
 
-### COVID-19
-- [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths)
-
 ### Platform Thinking
-#### Including Digital Health Platforms , HIT Standards, Informatics, etc.
+#### Including Digital Health Platforms (DHPs) , HIT Standards, Informatics, etc.
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
 - [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
+
+### COVID-19
+- [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths)
 
 ### Use cases for human-centered design (HCD) and user interfaces
 - [React UI](https://github.com/nalbarr/hello-patient-react)
@@ -18,15 +18,21 @@ my-projects
 ### Use cases to drive understanding of AI, ML, DL frameworks
 - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 
-## AI, ML, DL <-> Data Science <-> MLOps
-### (overlaps with Ng's Data-centric AI (DCAI)
-### (overlaps with Thoughtwork's Continuous Intelligence)
-### (overlaps with IBM's Cognitive Computing
+## Applied AI
+### AI, ML, DL <-> Data Science <-> MLOps
+- (overlaps with Ng's Data-centric AI (DCAI)
+- (overlaps wtth Burkov's Machine Learning Engineering (MLE)
+- (overlaps with Thoughtwork's Continuous Intelligence)
+- (overlaps with IBM's Cognitive Computing)
 - [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
 - [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
+
+### Geometric AI, Graphs, Knowledge Graphs
+- [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl)
+- [Tigergraph #1](https://github.com/nalbarr/hello-tigergraph-gsql)
 
 ## Google recon
 ### (Including Google Cloud Platform (GCP), etc.)
@@ -44,80 +50,108 @@ my-projects
 - [.NET Core + SQL Server](https://github.com/nalbarr/hello-dotnet-sql-docker)
 
 ## Amazon recon
-- TBD.  Include Noah Gift's - Pragmatic MLOps?
+- TBD.  Need to compare Google Vertex.ai vs. AWS Sagemaker
+- Include Noah Gift's - Pragmatic MLOps?
 
 ## IBM Cloud recon
-- TBD.  Currently [radar](radar.md) is on HOLD. Revisit IBM Redhat/Podman?
-
+- TBD.  Currently [radar](radar.md) is on HOLD
+  - Revisit IBM Quantum/IBM Redhat/Podman?
+ 
 ## Programming language Katas
 
 ### Many of projects below were inspired by teaching my son NLA when he asked me:
 - Can you teach me about programming?
 
-### C++ (OOP); Memory management topics
-- [project #1](https://github.com/nalbarr/hello-luke-stack-and-heap)
+#### Major Concepts, Katas and Mentoring philosophy
+- Start with console, backend and then frontend technologies
+- Makefile, get console running; then move to Makefiles/TDD
+- Simple coding challenges (e.g., basic algos and data sructures, exercise a language/ecosystem collection, typing libraries)
+- Hello-shapes-xxx is a basic kata that clarifes a simple programming paradigms (e.g, OOP vs. FP)
+- Add basic Makefile tests
+- Add project standards, ecosystem and technology specific scaffolding (e.g., Makefile, package managers, .gitignores)
+- Add CI build, cloud deploy
 
+### Concepts
+- TODO: move this to portfolio topics and blog
+
+#### Makefile is your friend
+- [Makefiles](https://github.com/nalbarr/hello-luke-hybrid2)
+
+#### Algorithms
+- [Basic ML algo (FP)](https://github.com/nalbarr/hello_optimizer_fp_python)
+- [Basic ML algo (OOP)](https://github.com/nalbarr/hello_optimizer_python)
+- [Basic Code Challenges](https://github.com/nalbarr/code_challenges_python)
+
+#### Data Structures
+- [Relational vs. Graphs](https://github.com/nalbarr/hello-docker-sql-and-graphs)
+
+#### Memory management topics
+- [project #1: hello-luke-stack-and-heap](https://github.com/nalbarr/hello-luke-stack-and-heap)
+ 
 ### Java (OOP)
-- [project #1](https://github.com/nalbarr/hello-shapes-java)
-- [project #2](https://github.com/nalbarr/hello-luke-java)
-- [project #3](https://github.com/nalbarr/hello-luke-javafx)
-- [project #4](https://github.com/nalbarr/hello-luke-java-git)
+- [project #1: hello-shapes-java](https://github.com/nalbarr/hello-shapes-java)
+- [project #2: hello-luke-java](https://github.com/nalbarr/hello-luke-java)
+- [project #3: hello-luke-javafx](https://github.com/nalbarr/hello-luke-javafx)
+- [project #4: hello-luke-java-git](https://github.com/nalbarr/hello-luke-java-git)
 
 ### C# (OOP)
-- [project #1](https://github.com/nalbarr/hello-luke-csharp-git)
-- [project #2](https://github.com/nalbarr/hello-unity-ml-agents)
+- [project #1: hello-luke-csharp-git](https://github.com/nalbarr/hello-luke-csharp-git)
+- [project #2: hello-unity-ml-agents](https://github.com/nalbarr/hello-unity-ml-agents)
+
+### C++ (OOP)
+- [project #1: hello-luke-stack-and-heap](https://github.com/nalbarr/hello-luke-stack-and-heap)
 
 ### Go (Systems language)
-- [project #1](https://github.com/nalbarr/hello-shapes-go)
-- [project #2](https://github.com/nalbarr/hello-luke-go)
+- [project #1: hello-shapes-go](https://github.com/nalbarr/hello-shapes-go)
+- [project #2: hello-luke-go](https://github.com/nalbarr/hello-luke-go)
 
 ### Dart (OOP)
-- [project #1](https://github.com/nalbarr/hello-shapes-dart)
-- [project #2](https://github.com/nalbarr/hello-luke-dart)
-- [Flutter/Dart client](https://github.com/nalbarr/hello_flutter_client.git)
+- [project #1: hello-shapes-dart](https://github.com/nalbarr/hello-shapes-dart)
+- [project #2: hello-luke-dart](https://github.com/nalbarr/hello-luke-dart)
+- [project #3: Flutter/Dart client](https://github.com/nalbarr/hello_flutter_client.git)
 
 ### Swift (OOP)
-- [project #1](https://github.com/nalbarr/hello-shapes-swift)
+- [project #1: hellow-shapes-swift](https://github.com/nalbarr/hello-shapes-swift)
 
 ### Kotlin (OOP, FP, Hybrid) - Also, Java, Scala
-- [project #1](https://github.com/nalbarr/hello-luke-oop-fp)
+- [project #1: hello-luke-oop-fp](https://github.com/nalbarr/hello-luke-oop-fp)
 
 ### Haskell (FP)
-- [project #1](https://github.com/nalbarr/hello-luke-haskell)
+- [project #1: hello-luke-haskell](https://github.com/nalbarr/hello-luke-haskell)
 
 ### Scala (FP)
-- [project #1](https://github.com/nalbarr/hello-shapes-scala)
-- [project #2](https://github.com/nalbarr/hello-luke-scala-git)
+- [project #1: hello-shapes-scala](https://github.com/nalbarr/hello-shapes-scala)
+- [project #2: hello-luke-scala-git](https://github.com/nalbarr/hello-luke-scala-git)
 
 ### F# (FP)
-- [project #1](https://github.com/nalbarr/hello-luke-fsharp)
+- [project #1: hello-luke-fsharp](https://github.com/nalbarr/hello-luke-fsharp)
 
 ### Clojure (FP)
-- [project #1](https://github.com/nalbarr/hello-shapes-cljs)
-- [project #2](https://github.com/nalbarr/hello-luke-cljs)
+- [project #1: hello-shapes-cljs](https://github.com/nalbarr/hello-shapes-cljs)
+- [project #2: hello-luke-cljs](https://github.com/nalbarr/hello-luke-cljs)
 
-### Javascript
-- [project #1](https://github.com/nalbarr/hello-shapes-javascript)
-- [project #2](https://github.com/nalbarr/hello-shapes-react-graphql)
+### JavaScript, Nodejs
+- [project #1: hello-shapes-javascript](https://github.com/nalbarr/hello-shapes-javascript)
+- [project #2: hello-shapes-react-graphql](https://github.com/nalbarr/hello-shapes-react-graphql)
 
-### Typescript
+### TypeScript
 - TBD
 
 ### Python
-- [project #1](https://github.com/nalbarr/hello-shapes-python)
-- [project #2](https://github.com/nalbarr/hello-luke-python)
-- [project #3](https://github.com/nalbarr/hello-luke-python-git)
-- [project #4](https://github.com/nalbarr/hello-luke-python-flask)
+- [project #1: hello-shapes-python](https://github.com/nalbarr/hello-shapes-python)
+- [project #2: hello-luke-python](https://github.com/nalbarr/hello-luke-python)
+- [project #3: hello-luke-python-git](https://github.com/nalbarr/hello-luke-python-git)
+- [project #4: hello-luke-python-flask](https://github.com/nalbarr/hello-luke-python-flask)
 
 ### R
-- [project #1](https://github.com/nalbarr/luke-einstein-puzzle)
+- [project #1: luke-einstein-puzzle](https://github.com/nalbarr/luke-einstein-puzzle)
 
 ### Blockchain, Ethereum, Solidity
-- [project #1](https://github.com/nalbarr/hello-ethereum-votingapp)
+- [project #1: hello-ethereum-votingapp](https://github.com/nalbarr/hello-ethereum-votingapp)
 
 ## MOOCs by Language; Course work (Mix of theory and application)
 
-### Python
+### Python (also TensorFlow)
 - [track #1](https://github.com/nalbarr/coursera-deeplearning.ai)
   - [course #1](https://github.com/nalbarr/coursera-deeplearning.ai-course1)
   - [course #2](https://github.com/nalbarr/coursera-deeplearning.ai-course2)
@@ -135,7 +169,7 @@ my-projects
 ### Scala
 - [course #1](https://github.com/nalbarr/coursera-epfl-funprog-scala)
 
-### Javascript
+### JavaScript (also Raspberry Pi, Nodered)
 - [course #1](https://github.com/nalbarr/coursera-ibmwatson-iot-course1)
 
 ### C#, Unity
