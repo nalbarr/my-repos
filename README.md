@@ -1,4 +1,3 @@
-# README
 my-projects
 
 ## Healthcare
@@ -20,19 +19,21 @@ my-projects
 
 ## Applied AI
 ### AI, ML, DL <-> Data Science <-> MLOps
-- (overlaps with Ng's Data-centric AI (DCAI)
-- (overlaps wtth Burkov's Machine Learning Engineering (MLE)
-- (overlaps with Thoughtwork's Continuous Intelligence)
-- (overlaps with IBM's Cognitive Computing)
+- NOTE:  overlaps with Ng's [Data-centric AI (DCAI)](https://landing.ai/data-centric-ai/)
+- NOTE:  overlaps with Google's [MLOps practitioner's guide](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
+- NOTE:  overlaps wtth Burkov's [Machine Learning Engineering (MLE)](http://www.mlebook.com/)
+- NOTE:  overlaps with Thoughtwork's [Continuous Intelligence](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales) 
+- NOTE:  overlaps with previous IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html)
+ 
 - [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
 - [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
 
-### Geometric AI, Graphs, Knowledge Graphs
+### Graphs, Knowledge Graphs -> Geometric AI
 - [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl)
-- [Tigergraph #1](https://github.com/nalbarr/hello-tigergraph-gsql)
+- [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql)
 
 ## Google recon
 ### (Including Google Cloud Platform (GCP), etc.)
