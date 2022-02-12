@@ -2,19 +2,15 @@ my-projects
 
 ## Healthcare
 
-### Platform Thinking
-#### Including Digital Health Platforms (DHPs) , HIT Standards, Informatics, etc.
+### Digital Health Platforms (DHPs), Platform Thinking, Systems Thinking
+#### HIT Standards, Informatics, etc.
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
 - [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
 
-### COVID-19
+#### (Selected) Use cases
 - [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths)
-
-### Use cases for human-centered design (HCD) and user interfaces
 - [React UI](https://github.com/nalbarr/hello-patient-react)
-
-### Use cases to drive understanding of AI, ML, DL frameworks
 - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 
 ## Applied AI
@@ -24,16 +20,17 @@ my-projects
 - NOTE:  overlaps wtth Burkov's [Machine Learning Engineering (MLE)](http://www.mlebook.com/)
 - NOTE:  overlaps with Thoughtwork's [Continuous Intelligence](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales) 
 - NOTE:  overlaps with previous IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html)
- 
+
+### Graphs, Knowledge Graphs -> Geometric AI
+- [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl)
+- [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql)
+
+### MLOps
 - [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
 - [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
-
-### Graphs, Knowledge Graphs -> Geometric AI
-- [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl)
-- [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql)
 
 ## Google recon
 ### (Including Google Cloud Platform (GCP), etc.)
@@ -54,16 +51,17 @@ my-projects
 - TBD.  Need to compare Google Vertex.ai vs. AWS Sagemaker
 - Include Noah Gift's - Pragmatic MLOps?
 
-## IBM Cloud recon
-- TBD.  Currently [radar](radar.md) is on HOLD
-  - Revisit IBM Quantum/IBM Redhat/Podman?
+## IBM  recon
+- TBD.  Revisit IBM Quantum Qiskit
+- TBD.  Revisit IBM Redhat Podman as alternate containerization.
  
 ## Programming language Katas
 
-### Many of projects below were inspired by teaching my son NLA when he asked me:
-- Can you teach me about programming?
+### Many of projects below inspired by teaching my son NLA when he asked me:
+- *Can you teach me about programming?*
 
-#### Major Concepts, Katas and Mentoring philosophy
+#### Major Concepts and Mentoring philosophy
+##### Katas
 - Start with console, backend and then frontend technologies
 - Makefile, get console running; then move to Makefiles/TDD
 - Simple coding challenges (e.g., basic algos and data sructures, exercise a language/ecosystem collection, typing libraries)
