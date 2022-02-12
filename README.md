@@ -1,5 +1,8 @@
 # my-repos
-This is my quick one page quick links to various repositories.
+
+This is one page quick links to repositories.
+
+Always work in progress but roughly organized by higher level themes to lower level details.
 
 ## Healthcare
 
