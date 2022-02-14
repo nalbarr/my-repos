@@ -14,8 +14,9 @@ Always work in progress but roughly organized by higher level themes to lower le
 
 #### (Selected) Use cases
 - [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths)
-- [React UI](https://github.com/nalbarr/hello-patient-react)
 - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
+- [React UI + Python backend](https://github.com/nalbarr/hello-patient-react)
+- [React UI + Clojure backend](https://github.com/nalbarr/hello-patient-clj)
 
 ## Applied AI
 ### AI, ML, DL <-> Data Science <-> MLOps
@@ -36,13 +37,13 @@ Always work in progress but roughly organized by higher level themes to lower le
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
 
-## (Pragmatic) MLOps; i.e., outcomes-based migration from Jupyter notebooks to basic automation
+#### (Pragmatic) MLOps; i.e., outcomes-based migration from Jupyter notebooks to basic automation
 - [Prefect](https://github.com/nalbarr/hello-prefect)
-- [ZenML][()
-- Include Noah Gift's - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/)?
+- Evalute [ZenML][(https://zenml.io/)
+- Evaluate Noah Gift approach - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/)?
 - 
-## Strategic MLOps
-- Need to compare Google Vertex.ai vs. AWS Sagemaker
+####  Strategic MLOps
+- Evaluate Google Vertex.ai vs. AWS Sagemaker; Use Graphs + AI as driving use case
 
 ## Google recon
 ### (Including Google Cloud Platform (GCP), etc.)
@@ -64,8 +65,9 @@ Always work in progress but roughly organized by higher level themes to lower le
 - Include Noah Gift's - Pragmatic MLOps?
 
 ## IBM  recon
-- TBD.  Revisit IBM Quantum Qiskit
-- TBD.  Revisit IBM Redhat Podman as alternate containerization.
+### IBM Quantum
+- [Qiskit example 1](https://github.com/nalbarr/hello-ibm-quantum)
+- TBD.  Revisit IBM Redhat Podman as alternate containerization approach.
  
 ## Programming language Katas
 
@@ -73,25 +75,34 @@ Always work in progress but roughly organized by higher level themes to lower le
 - *Can you teach me about programming?*
 
 #### Major Concepts and Mentoring philosophy
-##### Katas
+##### Katas - Crawl, Walk, Run
+###### Crawl
 - Start with console, backend and then frontend technologies
 - Makefile, get console running; then move to Makefiles/TDD
+
+###### Walk
 - Simple coding challenges (e.g., basic algos and data sructures, exercise a language/ecosystem collection, typing libraries)
-- Hello-shapes-xxx is a basic kata that clarifes a simple programming paradigms (e.g, OOP vs. FP)
+- `hello-shapes-xxx` is a basic kata that isolates programming paradigms (i.e., OOP vs. FP)
 - Add basic Makefile tests
+- Explicity pairing
+- Pod formations #1
+
+###### Run
+- Pod formations #2
 - Add project standards, ecosystem and technology specific scaffolding (e.g., Makefile, package managers, .gitignores)
 - Add CI build, cloud deploy
 
 ### Concepts
-- TODO: move this to portfolio topics and blog
+- TODO: move this to high level portfolio topics and prioritize blogs
 
+### Capabilities
 #### Makefile is your friend
 - [Makefiles](https://github.com/nalbarr/hello-luke-hybrid2)
 
 #### Algorithms
+- [Basic Code Challenges](https://github.com/nalbarr/code_challenges_python)
 - [Basic ML algo (FP)](https://github.com/nalbarr/hello_optimizer_fp_python)
 - [Basic ML algo (OOP)](https://github.com/nalbarr/hello_optimizer_python)
-- [Basic Code Challenges](https://github.com/nalbarr/code_challenges_python)
 
 #### Data Structures
 - [Relational vs. Graphs](https://github.com/nalbarr/hello-docker-sql-and-graphs)
