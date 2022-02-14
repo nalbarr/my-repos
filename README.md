@@ -2,11 +2,12 @@
 
 This is one page quick links to repositories.
 
-Always work in progress but roughly organized by higher level themes to lower level details.
+Roughly organized by higher level themes to lower level details.
 
 ## Healthcare
 
 ### Digital Health Platforms (DHPs), Platform Thinking, Systems Thinking
+
 #### HIT Standards, Informatics, etc.
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
@@ -24,7 +25,7 @@ Always work in progress but roughly organized by higher level themes to lower le
 - NOTE:  overlaps with Google's [MLOps practitioner's guide](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
 - NOTE:  overlaps wtth Burkov's [Machine Learning Engineering (MLE)](http://www.mlebook.com/)
 - NOTE:  overlaps with Thoughtwork's [Continuous Intelligence](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales) 
-- NOTE:  overlaps with previous IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html) and Deloitte AI(Shatksy)(https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-in-technology-sector-tmt.html)
+- NOTE:  overlaps with previous IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html) and [Deloitte AI(Shatksy)](https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-in-technology-sector-tmt.html)
 
 ### Graphs, Knowledge Graphs -> Geometric AI
 - [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl)
