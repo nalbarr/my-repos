@@ -36,6 +36,14 @@ Always work in progress but roughly organized by higher level themes to lower le
 - [DL4J](https://github.com/nalbarr/dl4j-examples)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
 
+## (Pragmatic) MLOps; i.e., outcomes-based migration from Jupyter notebooks to basic automation
+- [Prefect](https://github.com/nalbarr/hello-prefect)
+- [ZenML][()
+- Include Noah Gift's - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/)?
+- 
+## Strategic MLOps
+- Need to compare Google Vertex.ai vs. AWS Sagemaker
+
 ## Google recon
 ### (Including Google Cloud Platform (GCP), etc.)
 - [Cloud run Go example](https://github.com/nalbarr/hello-gcp-cloudrun-go)
