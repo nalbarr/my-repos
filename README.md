@@ -21,13 +21,17 @@ Roughly organized by higher level themes to lower level details.
 
 ## Applied AI
 ### AI, ML, DL <-> Data Science <-> MLOps
-- NOTE:  overlaps with Ng's [Data-centric AI (DCAI)](https://landing.ai/data-centric-ai/)
-- NOTE:  overlaps with Google's [MLOps practitioner's guide](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
-- NOTE:  overlaps wtth Burkov's [Machine Learning Engineering (MLE)](http://www.mlebook.com/)
-- NOTE:  overlaps with Thoughtwork's [Continuous Intelligence](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales) 
-- NOTE:  overlaps with previous IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html) and [Deloitte AI(Shatksy)](https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-in-technology-sector-tmt.html)
+- NOTE:  Artificial (AI), Machine Learning (ML), Deep Learning (DL), etc. are not new concepts.  Although for sure there are new innovations, there are concepts get resurfaced as new concepts but all really evolutions of existing works.
+- Here are some major evolutions that I have aligned with and tracking over the years:
+  - Ng's [Data-centric AI (DCAI)](https://landing.ai/data-centric-ai/)
+  - Google's [MLOps practitioner's guide](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
+  - Burkov's [Machine Learning Engineering (MLE)](http://www.mlebook.com/)
+  - Thoughtwork's [Continuous Intelligence](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales) 
+  - IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html)
+  - [Deloitte - AI Vision (Shatksy)](https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-in-technology-sector-tmt.html)
 
 ### Graphs, Knowledge Graphs -> Geometric AI
+- NOTE: I do feel these have interesting new directions
 - [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl)
 - [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql)
 
