@@ -17,7 +17,7 @@ Roughly organized by higher level themes to lower level details.
 - [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths)
 - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 - [React UI + Python backend](https://github.com/nalbarr/hello-patient-react)
-- [React UI + Clojure backend](https://github.com/nalbarr/hello-patient-clj)
+- [React UI + Clojure backend](https://github.com/nalbarr/hello_patient_clj)
 
 ## Applied AI
 ### AI, ML, DL <-> Data Science <-> MLOps
