@@ -4,38 +4,45 @@ This is one page quick links to repositories.
 
 Roughly organized by higher level themes to lower level details.
 
+## Visualization, Product Management/Ideation, Categorization
+Also categorized using Blank - Lean Innovation and ["3 Horizons"](https://steveblank.com/wp-content/uploads/2017/10/three-horizons.png) prioritization framework (i.e., H1=new, H2=near term, H3=future). NOTE: Also incorporated [Thoughtwork's Radar](https://www.thoughtworks.com/radar/byor) one level or Gitlab's Opportunity Canvas for products and driving use cases.
+
 ## Healthcare
 
 ### Digital Health Platforms (DHPs), Platform Thinking, Systems Thinking
 
 #### HIT Standards, Informatics, etc.
-- [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial)
-- [Google Health API](https://github.com/nalbarr/hello-gcp-fhir)
-- [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir)
+- [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial); H1
+- [Google Health API](https://github.com/nalbarr/hello-gcp-fhir); H1
+- [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir); H1
 
 #### (Selected) Use cases
-- [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths)
+- [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths); H1
 - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
-- [React UI + Python backend](https://github.com/nalbarr/hello-patient-react)
-- [React UI + Clojure backend](https://github.com/nalbarr/hello_patient_clj)
+- [React UI + Python backend](https://github.com/nalbarr/hello-patient-react): H1
+- [React UI + Clojure backend](https://github.com/nalbarr/hello_patient_clj): H2
 
 ## Applied AI
 ### AI, ML, DL <-> Data Science <-> MLOps
-- NOTE:  Artificial (AI), Machine Learning (ML), Deep Learning (DL), etc. are not new concepts.  Although for sure there are new innovations, there are concepts get resurfaced as new concepts but all really evolutions of existing works.
+- Big picture below.
+- Artificial (AI), Machine Learning (ML), Deep Learning (DL), etc. are not new concepts.  Although for sure there are new innovations, there are concepts get resurfaced as new concepts but all really evolutions of existing works.
 - Here are some major evolutions that I have aligned with and tracking over the years:
-  - Ng's [Data-centric AI (DCAI)](https://landing.ai/data-centric-ai/)
-  - Google's [MLOps practitioner's guide](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
-  - Burkov's [Machine Learning Engineering (MLE)](http://www.mlebook.com/)
-  - Thoughtwork's [Continuous Intelligence](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales) 
-  - IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html)
-  - [Deloitte - AI Vision (Shatksy)](https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-in-technology-sector-tmt.html)
+  - Ng's [Data-centric AI (DCAI)](https://landing.ai/data-centric-ai/); H1/H2
+  - Li's [Human-centered AI (HCAI)](https://hai.stanford.edu/); H2/H3
+  - Google's [MLOps practitioner's guide](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf); H1/H2
+  - Burkov's [Machine Learning Engineering (MLE)](http://www.mlebook.com/); H2; COMPETES with DCAI
+  - Thoughtwork's [Continuous Intelligence](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales); RENAMED, DISRUPTED 
+  - IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html); RENAMED, DISRUPTED
+  - [Deloitte - AI Vision (Shatksy)](https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-in-technology-sector-tmt.html); RENAMED, DISRUPTED
 
 ### Graphs, Knowledge Graphs -> Geometric AI
-- NOTE: I do feel these have interesting new directions
-- [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl)
-- [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql)
+These have interesting momentum and direction.
+- [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl); H1
+- [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql); H1/H2
+- [Amazon Neptune](https://aws.amazon.com/neptune/); H2
 
 ### MLOps
+All in hype cycle; consolidating to platform leaders.
 - [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
 - [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
@@ -43,12 +50,17 @@ Roughly organized by higher level themes to lower level details.
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
 
 #### (Pragmatic) MLOps; i.e., outcomes-based migration from Jupyter notebooks to basic automation
-- [Prefect](https://github.com/nalbarr/hello-prefect)
-- Evalute [ZenML][(https://zenml.io/)
-- Evaluate Noah Gift approach - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/)?
+Suggest stay pragmatic; focus in tight MVP iterations and risk mitigation.
+- H2: [Prefect](https://github.com/nalbarr/hello-prefect)
+- H2: Evalute [ZenML](https://zenml.io/)
+- H1: Evaluate Noah Gift approach - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/)?
 - 
 ####  Strategic MLOps
-- Evaluate Google Vertex.ai vs. AWS Sagemaker; Use Graphs + AI as driving use case
+Enterprises, conservatives will bet on these.  
+- Evaluate Google Vertex.ai vs. AWS Sagemaker; H1/H2, Early innovators already using
+- Parlay and compose with Graphs + AI as driving use case? H2/H3
+
+## Platform thinking aligned with "Big Tech" (Amazon, Microsoft, Google, IBM)
 
 ## Google recon
 ### (Including Google Cloud Platform (GCP), etc.)
@@ -71,8 +83,11 @@ Roughly organized by higher level themes to lower level details.
 
 ## IBM  recon
 ### IBM Quantum
-- [Qiskit example 1](https://github.com/nalbarr/hello-ibm-quantum)
-- TBD.  Revisit IBM Redhat Podman as alternate containerization approach.
+- [Qiskit example 1](https://github.com/nalbarr/hello-ibm-quantum); H2/H3
+  - < 100 qubit innovation constraint; pragmatic use cases around simulation
+
+### IBM Hybrid Cloud strategy
+- TBD.  Revisit IBM Redhat Podman as alternate containerization approach; H1
  
 ## Programming language Katas
 
@@ -98,9 +113,11 @@ Roughly organized by higher level themes to lower level details.
 - Add CI build, cloud deploy
 
 ### Concepts
-- TODO: move this to high level portfolio topics and prioritize blogs
+- TODO: move this to high level portfolio topics, prioritize blogs
 
 ### Capabilities
+- TODO: move this to HYBRID #1, #2 and # modules
+
 #### Makefile is your friend
 - [Makefiles](https://github.com/nalbarr/hello-luke-hybrid2)
 
