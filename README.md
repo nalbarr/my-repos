@@ -7,16 +7,17 @@ Roughly organized by higher level themes to lower level details.
 ## Visualization, Product Management/Ideation, Categorization
 Also categorized using Blank - Lean Innovation and ["3 Horizons"](https://steveblank.com/wp-content/uploads/2017/10/three-horizons.png) prioritization framework (i.e., H1=new, H2=near term, H3=future). NOTE: Also incorporated [Thoughtwork's Radar](https://www.thoughtworks.com/radar/byor) one level or Gitlab's Opportunity Canvas for products and driving use cases.
 
-## Healthcare
+## Industry-specific, Verticals
 
-### Digital Health Platforms (DHPs), Platform Thinking, Systems Thinking
+### Healthcare
+#### Digital Health Platforms (DHPs), Platform Thinking, Systems Thinking
 
-#### HIT Standards, Informatics, etc.
+##### HIT Standards, Informatics, etc.
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial); H1
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir); H1
 - [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir); H1
 
-#### (Selected) Use cases
+##### (Selected) Use cases
 - [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths); H1
 - [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
 - [React UI + Python backend](https://github.com/nalbarr/hello-patient-react): H1
@@ -42,21 +43,22 @@ These have interesting momentum and direction.
 - [Amazon Neptune](https://aws.amazon.com/neptune/); H2
 
 ### MLOps
-All in hype cycle; consolidating to platform leaders.
-- [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial)
-- [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git)
-- [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS)
-- [DL4J](https://github.com/nalbarr/dl4j-examples)
-- [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop)
+All below in hype cycle; consolidating to platform leaders.
+- [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial); H1/H2; this now launched as Vertex.ai
+- [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git); H1/H2; same as above; moving toward Azure Synapse
+- [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS); H1; we had a lot of early pain here, but now more mature
+- [DL4J](https://github.com/nalbarr/dl4j-examples); HOLD, DISRUPTED (see MLOps)
+- [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop); HOLD, DISRUPTED (see MLOps)
 
 #### (Pragmatic) MLOps; i.e., outcomes-based migration from Jupyter notebooks to basic automation
 Suggest stay pragmatic; focus in tight MVP iterations and risk mitigation.
-- H2: [Prefect](https://github.com/nalbarr/hello-prefect)
-- H2: Evalute [ZenML](https://zenml.io/)
-- H1: Evaluate Noah Gift approach - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/)?
-- 
+- Evaluate Noah Gift approach - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/); H1
+Target A/B evaluation of Prefect, ZenML on driving use case.  Delay investment into strategic MLOps until better informed.
+- [Prefect](https://github.com/nalbarr/hello-prefect); H2
+- [ZenML](https://zenml.io/); H2 
+
 ####  Strategic MLOps
-Enterprises, conservatives will bet on these.  
+Big Tech leading here.  Enterprises, conservatives will bet on these.  
 - Evaluate Google Vertex.ai vs. AWS Sagemaker; H1/H2, Early innovators already using
 - Parlay and compose with Graphs + AI as driving use case? H2/H3
 
@@ -78,8 +80,7 @@ Enterprises, conservatives will bet on these.
 - [.NET Core + SQL Server](https://github.com/nalbarr/hello-dotnet-sql-docker)
 
 ## Amazon recon
-- TBD.  Need to compare Google Vertex.ai vs. AWS Sagemaker
-- Include Noah Gift's - Pragmatic MLOps?
+- TBD.  Bring in CH, MD, RC for this.  Need to compare Google Vertex.ai vs. AWS Sagemaker and address any gaps from Noah Gift's - Pragmatic MLOps or small Pod approaches that work in the small.
 
 ## IBM  recon
 ### IBM Quantum
@@ -87,8 +88,10 @@ Enterprises, conservatives will bet on these.
   - < 100 qubit innovation constraint; pragmatic use cases around simulation
 
 ### IBM Hybrid Cloud strategy
-- TBD.  Revisit IBM Redhat Podman as alternate containerization approach; H1
- 
+- Anticipate Docker pricing hike.  Revisit IBM Redhat Podman as alternate containerization approach; H1
+
+NOTE: Move all below into HYBRID services.
+
 ## Programming language Katas
 
 ### Many of projects below inspired by teaching my son NLA when he asked me:
