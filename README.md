@@ -50,8 +50,10 @@ All below in hype cycle; consolidating to platform leaders.
 - [DL4J](https://github.com/nalbarr/dl4j-examples); HOLD, DISRUPTED (see MLOps)
 - [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop); HOLD, DISRUPTED (see MLOps)
 
-#### (Pragmatic) MLOps; i.e., outcomes-based migration from Jupyter notebooks to basic automation
-Suggest stay pragmatic; focus in tight MVP iterations and risk mitigation.
+#### (Pragmatic) MLOps; 
+i.e., outcomes-based migration from Jupyter notebooks to basic automation
+Keep this pragmatic and simple.  Focus on outcomes-based migration from exiting Jupyter notebooks to tight MVP iterations.
+Go for basic DevOps without complex MLOps features.
 - Evaluate Noah Gift approach - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/); H1
 Target A/B evaluation of Prefect, ZenML on driving use case.  Delay investment into strategic MLOps until better informed.
 - [Prefect](https://github.com/nalbarr/hello-prefect); H2
@@ -59,7 +61,8 @@ Target A/B evaluation of Prefect, ZenML on driving use case.  Delay investment i
 
 ####  Strategic MLOps
 Big Tech leading here.  Enterprises, conservatives will bet on these.  
-- Evaluate Google Vertex.ai vs. AWS Sagemaker; H1/H2, Early innovators already using
+- Evaluate Google Vertex.ai vs. AWS Sagemaker; Early innovators already using; H1/H2
+- Domino Labs, H20.ai, etc. going for D/S leaders and enterprise platform teams. 
 - Parlay and compose with Graphs + AI as driving use case? H2/H3
 
 ## Platform thinking aligned with "Big Tech" (Amazon, Microsoft, Google, IBM)
@@ -83,7 +86,7 @@ Big Tech leading here.  Enterprises, conservatives will bet on these.
 - TBD.  Bring in CH, MD, RC for this.  Need to compare Google Vertex.ai vs. AWS Sagemaker and address any gaps from Noah Gift's - Pragmatic MLOps or small Pod approaches that work in the small.
 
 ## IBM  recon
-### IBM Quantum
+### IBM Research; Quantum
 - [Qiskit example 1](https://github.com/nalbarr/hello-ibm-quantum); H2/H3
   - < 100 qubit innovation constraint; pragmatic use cases around simulation
 
@@ -142,8 +145,9 @@ NOTE: Move all below into HYBRID services.
 - [project #4: hello-luke-java-git](https://github.com/nalbarr/hello-luke-java-git)
 
 ### C# (OOP)
-- [project #1: hello-luke-csharp-git](https://github.com/nalbarr/hello-luke-csharp-git)
-- [project #2: hello-unity-ml-agents](https://github.com/nalbarr/hello-unity-ml-agents)
+- [project #1: hello-luke-csharp](https://github.com/nalbarr/hello-luke-csharp)
+- [project #2: hello-luke-csharp-git](https://github.com/nalbarr/hello-luke-csharp-git)
+- [project #3: hello-unity-ml-agents](https://github.com/nalbarr/hello-unity-ml-agents)
 
 ### C++ (OOP)
 - [project #1: hello-luke-stack-and-heap](https://github.com/nalbarr/hello-luke-stack-and-heap)
