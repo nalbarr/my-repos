@@ -2,31 +2,44 @@
 
 This is one page quick links to repositories.
 
-Roughly organized by higher level themes to lower level details.
+Roughly organized by higher level industry/market themes to lower level solution and technology details.
 
-## Visualization, Product Management/Ideation, Categorization
-Also categorized using Blank - Lean Innovation and ["3 Horizons"](https://steveblank.com/wp-content/uploads/2017/10/three-horizons.png) prioritization framework (i.e., H1=new, H2=near term, H3=future). NOTE: Also incorporated [Thoughtwork's Radar](https://www.thoughtworks.com/radar/byor) one level or Gitlab's Opportunity Canvas for products and driving use cases.
+## Lean Innovation Strategy
+Some useful strategy frameworks include:
+- Blank - Lean Innovation and ["3 Horizons"](https://steveblank.com/wp-content/uploads/2017/10/three-horizons.png) prioritization
+  - H1 = core
+  - H2 = near term; incremental innovation
+  - H3 = future; disruptive innovation 
+
+### Product Strategy, Product Management
+- Cagan's (Empower, Inspire)
+- Gitlab's Opportunity Canvas for products and driving use cases.
+
+### System Thinking <-> Platform Thinking
+
+### Technology Awareness and Maturity
+- [Thoughtwork's Radar](https://www.thoughtworks.com/radar/byor)
 
 ## Industry-specific, Verticals
 
 ### Healthcare
-#### Digital Health Platforms (DHPs), Platform Thinking, Systems Thinking
+#### Digital Health Platforms (DHPs)
 
 ##### HIT Standards, Informatics, etc.
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial); H1
 - [Google Health API](https://github.com/nalbarr/hello-gcp-fhir); H1
 - [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir); H1
 
-##### (Selected) Use cases
+##### (Selected) Use cases; Story Telling
 - [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths); H1
-- [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier)
-- [React UI + Python backend](https://github.com/nalbarr/hello-patient-react): H1
-- [React UI + Clojure backend](https://github.com/nalbarr/hello_patient_clj): H2
+- [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier); H1
+- [React UI + Python backend](https://github.com/nalbarr/hello-patient-react); H1
+- [React UI + Clojure backend](https://github.com/nalbarr/hello_patient_clj); H2
 
 ## Applied AI
 ### AI, ML, DL <-> Data Science <-> MLOps
 - Big picture below.
-- Artificial (AI), Machine Learning (ML), Deep Learning (DL), etc. are not new concepts.  Although for sure there are new innovations, there are concepts get resurfaced as new concepts but all really evolutions of existing works.
+- Artificial (AI), Machine Learning (ML), Deep Learning (DL), etc. are not new concepts.  There are new and amazing innovations, however there are also many concepts that get recycled and below are some acknowledgement of past works.
 - Here are some major evolutions that I have aligned with and tracking over the years:
   - Ng's [Data-centric AI (DCAI)](https://landing.ai/data-centric-ai/); H1/H2
   - Li's [Human-centered AI (HCAI)](https://hai.stanford.edu/); H2/H3
@@ -36,7 +49,7 @@ Also categorized using Blank - Lean Innovation and ["3 Horizons"](https://steveb
   - IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html); RENAMED, DISRUPTED
   - [Deloitte - AI Vision (Shatksy)](https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-in-technology-sector-tmt.html); RENAMED, DISRUPTED
 
-### Graphs, Knowledge Graphs -> Geometric AI
+### Graphs, Knowledge Graphs <-> Geometric AI
 These have interesting momentum and direction.
 - [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl); H1
 - [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql); H1/H2
@@ -62,8 +75,8 @@ Target A/B evaluation of Prefect, ZenML on driving use case.  Delay investment i
 ####  Strategic MLOps
 Big Tech leading here.  Enterprises, conservatives will bet on these.  
 - Evaluate Google Vertex.ai vs. AWS Sagemaker; Early innovators already using; H1/H2
-- Domino Labs, H20.ai, etc. going for D/S leaders and enterprise platform teams. 
-- Parlay and compose with Graphs + AI as driving use case? H2/H3
+- Monitor Domino Labs, H20.ai, etc. going for Data Scienceleaders and enterprise platform teams; H1/H2 
+- Parlay and compose with Graphs + AI as driving use case; H2/H3
 
 ## Platform thinking aligned with "Big Tech" (Amazon, Microsoft, Google, IBM)
 
@@ -83,10 +96,11 @@ Big Tech leading here.  Enterprises, conservatives will bet on these.
 - [.NET Core + SQL Server](https://github.com/nalbarr/hello-dotnet-sql-docker)
 
 ## Amazon recon
-- TBD.  Bring in CH, MD, RC for this.  Need to compare Google Vertex.ai vs. AWS Sagemaker and address any gaps from Noah Gift's - Pragmatic MLOps or small Pod approaches that work in the small.
+- TBD.  Bring in CH, MD, RC for this.  
+- Need to compare Google Vertex.ai vs. AWS Sagemaker and address any gaps from Noah Gift's - Pragmatic MLOps or small Pod approaches that work in the small.
 
 ## IBM  recon
-### IBM Research; Quantum
+### IBM Research; IBM Quantum
 - [Qiskit example 1](https://github.com/nalbarr/hello-ibm-quantum); H2/H3
   - < 100 qubit innovation constraint; pragmatic use cases around simulation
 
