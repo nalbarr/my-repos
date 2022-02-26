@@ -20,16 +20,11 @@ Roughly organized by higher level industry/market themes to lower level solution
 ### Lean Innovation Strategy
 Some useful strategy frameworks include:
 - Blank - Lean Innovation and ["3 Horizons"](https://steveblank.com/wp-content/uploads/2017/10/three-horizons.png) prioritization
-  - H1 = core
-  - H2 = near term; incremental innovation
-  - H3 = future; disruptive innovation 
+  - H1 = core; H2 = incremental innovation; H3 = disruptive innovation 
 
 ### Technology Awareness and Maturity
 - [Thoughtwork's Radar](https://www.thoughtworks.com/radar/byor)
-  - ADOPT
-  - TRIAL
-  - ASSESS
-  - HOLD 
+  - ADOPT, TRIAL, ASSESS, HOLD 
 
 ## Industry-specific, Verticals
 
