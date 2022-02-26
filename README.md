@@ -15,7 +15,7 @@ Roughly organized by higher level industry/market themes to lower level solution
 - AI, MLOps, System Thinkers and Platform Thinkers
   - Ng, Sculley
 - Agilists
-  - Cowman, Patton, "Original 17"   
+  - Cowan, Patton, "Original 17"   
 
 ### Lean Innovation Strategy
 Some useful strategy frameworks include:
