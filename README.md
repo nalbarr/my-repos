@@ -13,7 +13,7 @@ Roughly organized by higher level industry/market themes to lower level solution
 - Design Thinkers
   - IDEO, Leidtka; Double Diamond, 4 Whats
 - AI, MLOps, System Thinkers and Platform Thinkers
-  - Ng, Sculley
+  - Ng, Burkov, Sculley
 - Agilists
   - Cowan, Patton, "Original 17"   
 
