@@ -76,8 +76,9 @@ i.e., outcomes-based migration from Jupyter notebooks to basic automation
 Keep this pragmatic and simple.  I live Noah Gift's (NG) focus on outcomes-based MLOps. Internally, migrate existing Jupyter notebooks to tight MVP iterations and start moving to internal DSLs that reduce time to value (TTV) for problem/solutions fits.  Master DevOps first with layer of MLOps. 
 - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/); H1, ADOPT
 - Internal MLOps DSLs.  Delay investment into strategic MLOps until better informed.  Target A/B evaluation of Prefect, ZenML on driving use case.  
-- [Prefect](https://github.com/nalbarr/hello-prefect); H2; ASSESS; Target Pod for A/B evaluation
-- [ZenML](https://zenml.io/); H2; ASSESS; Target Pod for A/B evaluation 
+  - [Prefect](https://github.com/nalbarr/hello-prefect); H2; ASSESS; Target Pod for A/B evaluation
+  - [ZenML](https://zenml.io/); H2; ASSESS; Target Pod for A/B evaluation
+  - [Airflow]; H2; ASSESS; Need RF for this 
 
 ####  Strategic MLOps
 Big Tech leading here.  Enterprises, conservatives will bet on these.  
@@ -107,17 +108,17 @@ Big Tech leading here.  Enterprises, conservatives will bet on these.
 ## Amazon recon
 - TBD.  See Pragmatic MLOps above. (Have CH, MD, RC, MH advise on this).
 
-## IBM  recon
+## IBM/Redhat  recon
 ### IBM Research; IBM Quantum
 - [Qiskit example 1](https://github.com/nalbarr/hello-ibm-quantum); H2/H3; ASSESS
   - NOTE: < 100 qubit innovation constraint; target pragmatic use cases around simulation
 
-### IBM Carbon design system
-- [IBM Carbon #1](https://github.com/nalbarr/carbon-tutorial); H1; ADOPT; 
+### IBM Product Strategy; Design Thinking
+- [IBM Carbon design system #1](https://github.com/nalbarr/carbon-tutorial); H1; ADOPT; 
   - ***MUST cpature lessons learned from PROJECTX; encode and train PODs
 
-### IBM Hybrid Cloud strategy
-- Revisit IBM Redhat Podman as alternate containerization approach (due to Docker Desktop pricing hike); H1; ASSESS
+### IBM/Redhat Hybrid Cloud strategy
+- Revisit IBM/Redhat Podman as alternate containerization approach (due to Docker Desktop pricing hike); H1; ASSESS
 
 ## Practitioner Capabilities and Skills
 - A lot of technology details below.  Split between real world delivery and mentoring/teaching. 
