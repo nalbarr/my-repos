@@ -19,6 +19,10 @@ Some useful strategy frameworks include:
 
 ### Technology Awareness and Maturity
 - [Thoughtwork's Radar](https://www.thoughtworks.com/radar/byor)
+  - ADOPT
+  - TRIAL
+  - ASSESS
+  - HOLD 
 
 ## Industry-specific, Verticals
 
@@ -26,120 +30,91 @@ Some useful strategy frameworks include:
 #### Digital Health Platforms (DHPs)
 
 ##### HIT Standards, Informatics, etc.
-- [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial); H1
-- [Google Health API](https://github.com/nalbarr/hello-gcp-fhir); H1
-- [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir); H1
+- [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial); H1, ADOPT
+- [Google Health API](https://github.com/nalbarr/hello-gcp-fhir); H1, TRIAL
+- [Azure FHIR](https://github.com/nalbarr/hello-azure-fhir); H1, TRIAL
 
 ##### (Selected) Use cases; Story Telling
-- [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths); H1
-- [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier); H1
-- [React UI + Python backend](https://github.com/nalbarr/hello-patient-react); H1
-- [React UI + Clojure backend](https://github.com/nalbarr/hello_patient_clj); H2
+- [COVID-19 cases and deaths](https://github.com/nalbarr/covid19-cases-deaths); H1, ADOPT
+- [Pytorch binary classification](https://github.com/nalbarr/pytorch-spine-binary-classifier); H1, ADOPT
+- [React UI + Python backend](https://github.com/nalbarr/hello-patient-react); H1, ADOPT
+- [React UI + Clojure backend](https://github.com/nalbarr/hello_patient_clj); H2, ASSESS
 
 ## Applied AI
 ### AI, ML, DL <-> Data Science <-> MLOps
 - Big picture below.
 - Artificial (AI), Machine Learning (ML), Deep Learning (DL), etc. are not new concepts.  There are new and amazing innovations, however there are also many concepts that get recycled and below are some acknowledgement of past works.
 - Here are some major evolutions that I have aligned with and tracking over the years:
-  - Ng's [Data-centric AI (DCAI)](https://landing.ai/data-centric-ai/); H1/H2
-  - Li's [Human-centered AI (HCAI)](https://hai.stanford.edu/); H2/H3
-  - Google's [MLOps practitioner's guide](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf); H1/H2
-  - Burkov's [Machine Learning Engineering (MLE)](http://www.mlebook.com/); H2; COMPETES with DCAI
-  - Thoughtwork's [Continuous Intelligence](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales); RENAMED, DISRUPTED 
-  - IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html); RENAMED, DISRUPTED
-  - [Deloitte - AI Vision (Shatksy)](https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-in-technology-sector-tmt.html); RENAMED, DISRUPTED
+  - Ng's [Data-centric AI (DCAI)](https://landing.ai/data-centric-ai/); H1/H2, ADOPT
+  - Li's [Human-centered AI (HCAI)](https://hai.stanford.edu/); H2/H3, TRIAL
+  - Google's [MLOps practitioner's guide](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf); H1/H2, TRIAL
+  - Burkov's [Machine Learning Engineering (MLE)](http://www.mlebook.com/); H1/H2; OVERLAPS with DCAI
+  - Thoughtwork's [Continuous Intelligence](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales); H1, HOLD, SUBSUMED, DISRUPTED 
+  - IBM's [Cognitive Computing](https://www.ibm.com/watson/advantage-reports/getting-started-cognitive-technology.html); H1, HOLD, SUBSUMED, DISRUPTED
+  - [Deloitte - AI Vision (Shatksy)](https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-in-technology-sector-tmt.html);  H1, HOLD, SUBSUMED, DISRUPTED
 
 ### Graphs, Knowledge Graphs <-> Geometric AI
 These have interesting momentum and direction.
-- [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl); H1
-- [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql); H1/H2
-- [Amazon Neptune](https://aws.amazon.com/neptune/); H2
+- [Neo4j 1](https://github.com/nalbarr/hello-neo4j-gdsl); H1, ADOPT
+- [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql); H1/H2, TRIAL
+- [Amazon Neptune](https://aws.amazon.com/neptune/); H2, ASSESS
 
 ### MLOps
 All below in hype cycle; consolidating to platform leaders.
-- [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial); H1/H2; this now launched as Vertex.ai
-- [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git); H1/H2; same as above; moving toward Azure Synapse
+- [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial); H1/H2; TRIAL; NOT: Launched as PAAS-Vertex.ai, BigQuery
+- [Azure, MLOps with Kubeflow](https://github.com/nalbarr/kubeflow-and-mlops.git); H1/H2; TRIAL; NOT: Launched as PAAS-MLStudio, Synapse
 - [CNN model on Azure AKS](https://github.com/nalbarr/DeployDLKubeflowAKS); H1; we had a lot of early pain here, but now more mature
-- [DL4J](https://github.com/nalbarr/dl4j-examples); HOLD, DISRUPTED (see MLOps)
-- [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop); HOLD, DISRUPTED (see MLOps)
+- [DL4J](https://github.com/nalbarr/dl4j-examples); H1; HOLD, DISRUPTED (pivot to MLOps)
+- [Thoughtworks Continuous Intelligence](https://github.com/nalbarr/continuous-intelligence-workshop); H1; HOLD, DISRUPTED (pivot to MLOps)
 
 #### (Pragmatic) MLOps; 
 i.e., outcomes-based migration from Jupyter notebooks to basic automation
-Keep this pragmatic and simple.  Focus on outcomes-based migration from exiting Jupyter notebooks to tight MVP iterations.
-Go for basic DevOps without complex MLOps features.
-- Evaluate Noah Gift approach - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/); H1
-Target A/B evaluation of Prefect, ZenML on driving use case.  Delay investment into strategic MLOps until better informed.
-- [Prefect](https://github.com/nalbarr/hello-prefect); H2
-- [ZenML](https://zenml.io/); H2 
+Keep this pragmatic and simple.  I live Noah Gift's (NG) focus on outcomes-based MLOps. Internally, migrate existing Jupyter notebooks to tight MVP iterations and start moving to internal DSLs that reduce time to value (TTV) for problem/solutions fits.  Master DevOps first with layer of MLOps. 
+- [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/); H1, ADOPT
+- Internal MLOps DSLs.  Delay investment into strategic MLOps until better informed.  Target A/B evaluation of Prefect, ZenML on driving use case.  
+- [Prefect](https://github.com/nalbarr/hello-prefect); H2; ASSESS; Target Pod for A/B evaluation
+- [ZenML](https://zenml.io/); H2; ASSESS; Target Pod for A/B evaluation 
 
 ####  Strategic MLOps
 Big Tech leading here.  Enterprises, conservatives will bet on these.  
-- Evaluate Google Vertex.ai vs. AWS Sagemaker; Early innovators already using; H1/H2
-- Monitor Domino Labs, H20.ai, etc. going for Data Scienceleaders and enterprise platform teams; H1/H2 
-- Parlay and compose with Graphs + AI as driving use case; H2/H3
+- Target A/B evaluation of Google Vertex.ai vs. AWS Sagemaker; H1/H2; TRIAL; AWS is incumbent leader
+  - Parlay and compose with Graphs + AI as driving use case
+- Monitor Domino Labs, H20.ai, etc. going for Data Science leaders and enterprise platform teams; H1/H2; HOLD; needs driving customer/partner
 
 ## Platform thinking aligned with "Big Tech" (Amazon, Microsoft, Google, IBM)
 
 ## Google recon
 ### (Including Google Cloud Platform (GCP), etc.)
+#### AI, ML project stacks
 - [Cloud run Go example](https://github.com/nalbarr/hello-gcp-cloudrun-go)
 - [Cloud run Python/Flask example](https://github.com/nalbarr/hello-gcp-cloudrun-flask)
-- [Simple S4TF example](https://github.com/nalbarr/hello-swift4tf.git)
+- [Simple S4TF example](https://github.com/nalbarr/hello-swift4tf.git); H2/H3; HOLD; Google cancelled project endorsement
  
 ## Microsoft recon
 ### (Including Microsoft Azure, Microsoft Cognitive Services, etc.)
-- [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes)
-- [Blazor example 2](https://github.com/nalbarr/PokeBlazor)
-- [Blazor prototype 1](https://github.com/nalbarr/hello-shapes-blazor)
-- [Blazor prototype 2](https://github.com/nalbarr/hello-blazor-hosted)
-- [.NET Core build](https://github.com/nalbarr/dotnetcore-sample)
-- [.NET Core + SQL Server](https://github.com/nalbarr/hello-dotnet-sql-docker)
+#### AI, ML project stacks
+- [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes); H1; ADOPT;
+- [Blazor example 2](https://github.com/nalbarr/PokeBlazor); H1; HOLD;
+- [Blazor prototype 1](https://github.com/nalbarr/hello-shapes-blazor); H1; ADOPT;
+- [Blazor prototype 2](https://github.com/nalbarr/hello-blazor-hosted); H1; ADOPT;
+- [.NET Core build](https://github.com/nalbarr/dotnetcore-sample); H1; ADOPT;
+- [.NET Core + SQL Server](https://github.com/nalbarr/hello-dotnet-sql-docker)H1; ADOPT;
 
 ## Amazon recon
-- TBD.  Bring in CH, MD, RC for this.  
-- Need to compare Google Vertex.ai vs. AWS Sagemaker and address any gaps from Noah Gift's - Pragmatic MLOps or small Pod approaches that work in the small.
+- TBD.  See Pragmatic MLOps above. (Have CH, MD, RC, MH advise on this).
 
 ## IBM  recon
 ### IBM Research; IBM Quantum
-- [Qiskit example 1](https://github.com/nalbarr/hello-ibm-quantum); H2/H3
-  - < 100 qubit innovation constraint; pragmatic use cases around simulation
+- [Qiskit example 1](https://github.com/nalbarr/hello-ibm-quantum); H2/H3; ASSESS
+  - NOTE: < 100 qubit innovation constraint; target pragmatic use cases around simulation
 
 ### IBM Carbon design system
-- [IBM Carbon #1](https://github.com/nalbarr/carbon-tutorial)
+- [IBM Carbon #1](https://github.com/nalbarr/carbon-tutorial); H1; ADOPT; ***lessons learned from PROJECTX; encode and train PODs
 
 ### IBM Hybrid Cloud strategy
-- Anticipate Docker pricing hike.  Revisit IBM Redhat Podman as alternate containerization approach; H1
+- Revisit IBM Redhat Podman as alternate containerization approach (due to Docker Desktop pricing hike); H1; ASSESS
 
-NOTE: Move all below into HYBRID services.
-
-## Programming language Katas
-
-### Many of projects below inspired by teaching my son NLA when he asked me:
-- *Can you teach me about programming?*
-
-#### Major Concepts and Mentoring philosophy
-##### Katas - Crawl, Walk, Run
-###### Crawl
-- Start with console, backend and then frontend technologies
-- Makefile, get console running; then move to Makefiles/TDD
-
-###### Walk
-- Simple coding challenges (e.g., basic algos and data sructures, exercise a language/ecosystem collection, typing libraries)
-- `hello-shapes-xxx` is a basic kata that isolates programming paradigms (i.e., OOP vs. FP)
-- Add basic Makefile tests
-- Explicity pairing
-- Pod formations #1
-
-###### Run
-- Pod formations #2
-- Add project standards, ecosystem and technology specific scaffolding (e.g., Makefile, package managers, .gitignores)
-- Add CI build, cloud deploy
-
-### Concepts
-- TODO: move this to high level portfolio topics, prioritize blogs
-
-### Capabilities
-- TODO: move this to HYBRID #1, #2 and # modules
+## Technology Details
 
 #### Makefile is your friend
 - [Makefiles](https://github.com/nalbarr/hello-luke-hybrid2)
@@ -242,3 +217,45 @@ NOTE: Move all below into HYBRID services.
 
 ### C#, Unity
 - [course #1](https://github.com/nalbarr/coursera-msu-gamedev-course1)
+
+# NOTE:
+- Move all below into HYBRID Labs and HYBRID PRO services descriptions.
+
+#### 4Cs - Context, Concepts, Capabilties, Culture 
+
+### Context
+### Much of below by mentoring and teaching my son NLA when he asked me:
+- STORY:  *Can you teach me about programming?*
+- STORY:  HYBRID Labs - A problem we had to solve
+
+### Concepts
+- TODO: move this to high level portfolio topics, prioritize blogs
+
+#### Major Concepts and Mentoring philosophy
+- STORY:  Theory of HYBRID #1, #2, #3
+
+### Capabilities
+- TODO: move this to HYBRID #1, #2 and # modules
+
+##### Katas - Crawl, Walk, Run
+###### Crawl
+- Start with console, backend and then frontend technologies
+- Makefile, get console running; then move to Makefiles/TDD
+- BIG WORDS: SAFE ZONE, MAGIC BOX
+
+###### Walk
+- Simple coding challenges (e.g., basic algos and data sructures, exercise a language/ecosystem collection, typing libraries)
+- `hello-shapes-xxx` is a basic kata that isolates programming paradigms (i.e., OOP vs. FP)
+- Add basic Makefile tests
+- Explicity pairing
+- Pod formations #1
+- BIG WORDS: POD CULTURE, 4Qs
+
+###### Run
+- Pod formations #2
+- Add project standards, ecosystem and technology specific scaffolding (e.g., Makefile, package managers, .gitignores)
+- Add CI build, cloud deploy
+- BIG WORDS: DORA METRICS #1, #2
+
+## Programming language Katas
+- link back to *Technical Details* section and reorganize
