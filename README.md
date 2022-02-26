@@ -114,7 +114,8 @@ Big Tech leading here.  Enterprises, conservatives will bet on these.
 ### IBM Hybrid Cloud strategy
 - Revisit IBM Redhat Podman as alternate containerization approach (due to Docker Desktop pricing hike); H1; ASSESS
 
-## Technology Details
+## Practitioner Capabilities and Skills
+- A lot of technology details below.  Split between real world delivery and mentoring/teaching. 
 
 #### Makefile is your friend
 - [Makefiles](https://github.com/nalbarr/hello-luke-hybrid2)
