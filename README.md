@@ -83,22 +83,22 @@ Keep this pragmatic and simple.  I live Noah Gift's (NG) focus on outcomes-based
 Big Tech leading here.  Enterprises, conservatives will bet on these.  
 - Target A/B evaluation of Google Vertex.ai vs. AWS Sagemaker; H1/H2; TRIAL; AWS is incumbent leader
   - Parlay and compose with Graphs + AI as driving use case
-- Monitor Domino Labs, H20.ai, etc. going for Data Science leaders and enterprise platform teams; H1/H2; HOLD; needs driving customer/partner
+  - Continue to monitor Domino Labs, H20.ai, etc. going for Data Science leaders and enterprise platform teams; H1/H2; HOLD; needs driving customer/partner
 
 ## Platform thinking aligned with "Big Tech" (Amazon, Microsoft, Google, IBM)
 
 ## Google recon
 ### (Including Google Cloud Platform (GCP), etc.)
 #### AI, ML project stacks
-- [Cloud run Go example](https://github.com/nalbarr/hello-gcp-cloudrun-go)
-- [Cloud run Python/Flask example](https://github.com/nalbarr/hello-gcp-cloudrun-flask)
+- [Cloud run Go example](https://github.com/nalbarr/hello-gcp-cloudrun-go); H2; ASSESS
+- [Cloud run Python/Flask example](https://github.com/nalbarr/hello-gcp-cloudrun-flask)H1; ADOPT
 - [Simple S4TF example](https://github.com/nalbarr/hello-swift4tf.git); H2/H3; HOLD; Google cancelled project endorsement
  
 ## Microsoft recon
 ### (Including Microsoft Azure, Microsoft Cognitive Services, etc.)
 #### AI, ML project stacks
 - [Blazor example 1](https://github.com/nalbarr/blazor-tour-of-heroes); H1; ADOPT;
-- [Blazor example 2](https://github.com/nalbarr/PokeBlazor); H1; HOLD;
+- [Blazor example 2](https://github.com/nalbarr/PokeBlazor); H1; ADOPT;
 - [Blazor prototype 1](https://github.com/nalbarr/hello-shapes-blazor); H1; ADOPT;
 - [Blazor prototype 2](https://github.com/nalbarr/hello-blazor-hosted); H1; ADOPT;
 - [.NET Core build](https://github.com/nalbarr/dotnetcore-sample); H1; ADOPT;
@@ -113,7 +113,8 @@ Big Tech leading here.  Enterprises, conservatives will bet on these.
   - NOTE: < 100 qubit innovation constraint; target pragmatic use cases around simulation
 
 ### IBM Carbon design system
-- [IBM Carbon #1](https://github.com/nalbarr/carbon-tutorial); H1; ADOPT; ***lessons learned from PROJECTX; encode and train PODs
+- [IBM Carbon #1](https://github.com/nalbarr/carbon-tutorial); H1; ADOPT; 
+  - ***MUST cpature lessons learned from PROJECTX; encode and train PODs
 
 ### IBM Hybrid Cloud strategy
 - Revisit IBM Redhat Podman as alternate containerization approach (due to Docker Desktop pricing hike); H1; ASSESS
