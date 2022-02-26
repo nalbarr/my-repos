@@ -4,18 +4,25 @@ This is one page quick links to repositories.
 
 Roughly organized by higher level industry/market themes to lower level solution and technology details.
 
-## Lean Innovation Strategy
+## Product Strategy, Product Management, Product Development
+- Product-centic
+  - Cagan, Goethe; Empowered, Inspired, Lean Analytics
+  - Wardley; Wardley mapping
+- MBA leaders and Early MVPs
+  - Blank, Ries, Aulet, Maurya; Lean Innovation, ... Running Lean
+- Design Thinkers
+  - IDEO, Leidtka; Double Diamond, 4 Whats
+- AI, MLOps, System Thinkers and Platform Thinkers
+  - Ng, Sculley
+- Agilists
+  - Cowman, Patton, "Original 17"   
+
+### Lean Innovation Strategy
 Some useful strategy frameworks include:
 - Blank - Lean Innovation and ["3 Horizons"](https://steveblank.com/wp-content/uploads/2017/10/three-horizons.png) prioritization
   - H1 = core
   - H2 = near term; incremental innovation
   - H3 = future; disruptive innovation 
-
-### Product Strategy, Product Management
-- Cagan's (Empower, Inspire)
-- Gitlab's Opportunity Canvas for products and driving use cases.
-
-### System Thinking <-> Platform Thinking
 
 ### Technology Awareness and Maturity
 - [Thoughtwork's Radar](https://www.thoughtworks.com/radar/byor)
@@ -28,6 +35,8 @@ Some useful strategy frameworks include:
 
 ### Healthcare
 #### Digital Health Platforms (DHPs)
+- Thought Leaders
+  - Topol, Halamaka, Toussaint, Anderson 
 
 ##### HIT Standards, Informatics, etc.
 - [SMART on FHIR](https://github.com/nalbarr/smart-on-fhir-tutorial); H1, ADOPT
