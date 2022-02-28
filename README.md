@@ -5,9 +5,9 @@ This is one page quick links to repositories.
 Roughly organized by higher level industry/market themes to lower level solution and technology details.
 
 ## Product Strategy, Product Management, Product Development
-- Product-centic
-  - Cagan, Goethe; Empowered, Inspired, Lean Analytics
-  - Wardley; Wardley mapping
+- Product-centric
+  - Cagan, Rumelt, Goethe; Empowered, Inspired, Good Strategy/Bad Strategy, Lean Analytics
+
 - MBA leaders and Early MVPs
   - Blank, Ries, Aulet, Maurya; Lean Innovation, ... Running Lean
 - Design Thinkers
@@ -15,14 +15,16 @@ Roughly organized by higher level industry/market themes to lower level solution
 - AI, MLOps, System Thinkers and Platform Thinkers
   - Ng, Burkov, Sculley
 - Agilists
-  - Cowan, Patton, "Original 17"   
+  - Cowan, Patton, "Original 17+" (Cockburn, Sutherland, Coplien, Martin)   
 
-### Lean Innovation Strategy
-Some useful strategy frameworks include:
+### Balancing Strategy and Tactics
+Some useful strategic frameworks include:
 - Blank - Lean Innovation and ["3 Horizons"](https://steveblank.com/wp-content/uploads/2017/10/three-horizons.png) prioritization
   - H1 = core; H2 = incremental innovation; H3 = disruptive innovation 
+- Wardley - Wardley mapping
+  -  End users, value chain, innovation diffusion
 
-### Technology Awareness and Maturity
+### Technology Adoption, Awareness and Maturity
 - [Thoughtwork's Radar](https://www.thoughtworks.com/radar/byor)
   - ADOPT, TRIAL, ASSESS, HOLD 
 
