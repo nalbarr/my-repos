@@ -65,6 +65,11 @@ These have interesting momentum and direction.
 - [Tigergraph 1](https://github.com/nalbarr/hello-tigergraph-gsql); H1/H2, TRIAL
 - [Amazon Neptune](https://aws.amazon.com/neptune/); H2, ASSESS
 
+### Quantum ML
+Very early.
+Just observe hybrid classic/quantum ML starting to get evangelism for < 100 qubit for HPC clusters while hardware innovators stabilize qubit decoherence wall that is forcing incremental noisy intermediate scale quantum ([NISQ](https://en.wikipedia.org/wiki/Noisy_intermediate-scale_quantum_era)) approaches. Big Tech heavily investing to anticipate a post GPU and classic hardware future.
+- IBM Qiskit, Google Cirq, Microsoft Q#; H3, ASSESS
+
 ### MLOps
 All below in hype cycle; consolidating to platform leaders.
 - [Kubeflow on GCP - modified tutorial](https://github.com/nalbarr/kubeflow-tutorial); H1/H2; TRIAL; NOT: Launched as PAAS-Vertex.ai, BigQuery
