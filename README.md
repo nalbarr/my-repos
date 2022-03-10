@@ -87,7 +87,7 @@ Keep this pragmatic and simple.  I like Noah Gift's (NG) focus on outcomes-based
 - Internal MLOps DSLs.  Delay investment into strategic MLOps until better informed.  Target A/B evaluation of Prefect, ZenML on driving use case.  
   - [Prefect](https://github.com/nalbarr/hello-prefect); H2; ASSESS; Target Pod for A/B evaluation
   - [ZenML](https://zenml.io/); H2; ASSESS; Target Pod for A/B evaluation
-  - [Airflow]; H2; ASSESS; Need RF for this 
+  - [Airflow](https://airflow.apache.org/); H2; ASSESS; Need RF for this 
 
 ####  Strategic MLOps
 Big Tech leading here.  Enterprises, conservatives will bet on these.  
