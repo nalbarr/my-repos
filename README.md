@@ -80,7 +80,7 @@ All below in hype cycle; consolidating to platform leaders.
 
 #### (Pragmatic) MLOps; 
 i.e., outcomes-based migration from Jupyter notebooks to basic automation
-Keep this pragmatic and simple.  I live Noah Gift's (NG) focus on outcomes-based MLOps. Internally, migrate existing Jupyter notebooks to tight MVP iterations and start moving to internal DSLs that reduce time to value (TTV) for problem/solutions fits.  Master DevOps first with layer of MLOps. 
+Keep this pragmatic and simple.  I like Noah Gift's (NG) focus on outcomes-based MLOps. Internally, migrate existing Jupyter notebooks to tight MVP iterations and start moving to internal DSLs that reduce time to value (TTV) for problem/solutions fits.  Master DevOps first with layer of MLOps. 
 - [Pragmatic MLOps](https://mlops.community/watch/practical-mlops-doing-mlops_qHdyBJR0aHk8t9/); H1, ADOPT
 - Internal MLOps DSLs.  Delay investment into strategic MLOps until better informed.  Target A/B evaluation of Prefect, ZenML on driving use case.  
   - [Prefect](https://github.com/nalbarr/hello-prefect); H2; ASSESS; Target Pod for A/B evaluation
