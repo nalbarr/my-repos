@@ -68,7 +68,9 @@ These have interesting momentum and direction.
 ### Quantum ML
 Very early.
 Just observe hybrid classic/quantum ML starting to get evangelism for < 100 qubit for HPC clusters while hardware innovators stabilize qubit decoherence wall that is forcing incremental noisy intermediate scale quantum ([NISQ](https://en.wikipedia.org/wiki/Noisy_intermediate-scale_quantum_era)) approaches. Big Tech heavily investing to anticipate a post GPU and classic hardware future.
-- IBM Qiskit, Google TensorFlow Quantum/Cirq, Microsoft Q#; H3, ASSESS
+- IBM Qiskit; H2/H3, ASSESS
+- Google TensorFlow Quantum/Cirq; H2/H3, ASSESS
+- Microsoft Q#; H3, HOLD - *WAIT UNTIL NPOD reports on Landscape analysis and A/B comparison of IBM vs. Google*
 
 ### MLOps
 All below in hype cycle; consolidating to platform leaders.
