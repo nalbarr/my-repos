@@ -124,7 +124,7 @@ Big Tech leading here.  Enterprises, conservatives will bet on these.
 
 ### IBM Product Strategy; Design Thinking
 - [IBM Carbon design system #1](https://github.com/nalbarr/carbon-tutorial); H1; ADOPT; 
-  - ***MUST cpature lessons learned from PROJECTX; encode and train PODs
+  - ***MUST capture lessons learned from PROJECTX; encode and train PODs
 
 ### IBM/Redhat Hybrid Cloud strategy
 - Revisit IBM/Redhat Podman as alternate containerization approach (due to Docker Desktop pricing hike); H1; ASSESS
